@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with: Understanding javascript concepts and web development best practices.
 - 💬 Ask me about: leearning how to code and my best favourite tech tools.
 - 📫 How to reach me: minipai64@gmail.com 
-- 🤳My Socials: https://www.linkedin.com/in/minenhle-ncapai1/ 
 - 😄 Pronouns:She/Her
-- ⚡ Fun fact:  I can speak a little bit of Italian!
+- ⚡ Fun fact: I can speak a little bit of Italian!
 
