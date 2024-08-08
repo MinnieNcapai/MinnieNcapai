@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: Javascript frameworks
 - 👯 I’m looking to collaborate on: Open-source projects and web development challenges.
 - 🤔 I’m looking for help with: Understanding javascript concepts and web development best practices.
-- 💬 Ask me about: leearning how to code and my best favourite tech tools.
+- 💬 Ask me about: learning how to code and my best favourite tech tools.
 - 📫 How to reach me: minipai64@gmail.com 
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact: I can speak a little bit of Italian!
